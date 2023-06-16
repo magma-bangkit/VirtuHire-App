@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">VirtuHire</string>
+    <string name="app_name_lowercase">virtuhire</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_interview">Interview</string>
+
+    <!--Login and Register Screen-->
+    <string name="user_email_label">Email</string>
+    <string name="user_first_name_label">First Name</string>
+    <string name="user_last_name_label">Last Name</string>
+    <string name="user_password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+
+    <!--Setting Screen-->
+    <string name="setting_screen_headline">Setting</string>
+
+    <!--Onboard Screen-->
+    <string name="join_button">Join Now</string>
+    <string name="onBoardingTitle1">Capture the moment</string>
+    <string name="onBoardingText1">You are not alone. You have unique ability to go to another world</string>
+
+    <string name="onBoardingTitle2">Live The life</string>
+    <string name="onBoardingText2">In daily lives, we often rush our tasks trying get them finish</string>
+
+    <string name="onBoardingTitle3">Play the beat</string>
+    <string name="onBoardingText3">Most beginner producers learn make creating by simple beats</string>
+
+    <!--Dummy-->
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
 </resources>
